@@ -7,4 +7,3 @@ matplotlib
 werkzeug
 scipy
 scikit-learn
-pickle
